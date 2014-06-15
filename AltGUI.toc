@@ -1,0 +1,5 @@
+## Interface: 50400
+## Title: AltGUI
+## Description: Provides BlankSlate-aware alternative widgets for AceGUI.
+## Author: Predicate
+## OptionalDeps: BlankSlate, Ace3
